@@ -98,15 +98,6 @@ const nikhil = {
 
 ---
 
-<img src="https://streak-stats.demolab.com?user=NikhilGeogi&theme=nord&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&border=38bdf8&hide_border=false" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=NikhilGeogi&theme=nord&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies" />
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
