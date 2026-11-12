@@ -25,7 +25,7 @@
 const nikhil = {
   title: "Full Stack Developer",
   stack: ["Java", "Spring Boot", "Hibernate", "MySQL", "JavaScript", "Python", "Flutter"],
-  launchedProjects: ["SyncSpace", "One Health App"],
+  launchedProjects: ["SyncSpace", "One Health App", CBMS],
   certifications: ["Full-Stack Development Certification — KodNest"],
   status: "Actively job searching — immediate joiner, open to relocation",
   openTo: [
@@ -97,15 +97,6 @@ const nikhil = {
 <sub>Also: Servlets · JDBC · SQL · RESTful API design · Agile (Scrum)</sub>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=NikhilGeogi&show_icons=true&theme=nord&border_color=38bdf8&title_color=38bdf8&icon_color=38bdf8&hide_border=false" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilGeogi&layout=compact&theme=nord&border_color=38bdf8&title_color=38bdf8&hide_border=false" alt="Top languages" />
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=NikhilGeogi&theme=nord&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&border=38bdf8&hide_border=false" alt="GitHub streak" />
 
