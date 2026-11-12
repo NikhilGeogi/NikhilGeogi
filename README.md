@@ -95,18 +95,6 @@ const nikhil = {
 <img src="https://skillicons.dev/icons?i=git,github,linux&theme=dark" alt="Dev tools" />
 
 <sub>Also: Servlets · JDBC · SQL · RESTful API design · Agile (Scrum)</sub>
-
----
-
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NikhilGeogi&bg_color=0f172a&color=38bdf8&line=38bdf8&point=ffffff&area=true&area_color=38bdf8&hide_border=true" alt="Contribution graph" width="100%" />
-
-</div>
-
 ---
 
 ## 🤝 Connect
